@@ -2,7 +2,7 @@ import React from 'react'
 import './Header.css'
 import logo from './Kartmize_transparent.png'
 import { MdOutlineTroubleshoot } from "react-icons/md";
-import { BiCart } from "react-icons/bi";
+import { BiCart, BiVector } from "react-icons/bi";
 import { FaUser } from "react-icons/fa6";
 
 
@@ -46,7 +46,7 @@ function Header() {
                     Your
                 </span>
                 <span className='header_optionTwo'>
-                    ProKart
+                    ProoKart
                 </span>
 
             </div>
@@ -58,6 +58,8 @@ function Header() {
             </div>
 
         </div>
+        
+                
 
       
     </div>
@@ -65,3 +67,4 @@ function Header() {
 }
 
 export default Header
+
