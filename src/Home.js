@@ -63,7 +63,7 @@ function Home() {
         <div className='home_row'>
           <Product
           id="90829332"
-          title="Sumsung LC49RG90SSUXEN 49' Curved LED Gaming Monitor - Super Ultra Wide Dual WQHD 5142 * 1440"
+          title="Sumsung LC49RG90SSUXEN 49' Curved LED Gaming Monitor - Super Ultra Wide Dual WQHD 5142 - 1440"
           price={1094.98}
           rating={4}
           image={gamingMonitor}
